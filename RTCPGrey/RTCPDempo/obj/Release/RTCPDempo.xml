@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RTCPDempo
+</name>
+</assembly>
+<members>
+<member name="M:RTCPDempo.RTCP.RTCPGray(System.Drawing.Bitmap)">
+	<summary>
+ 对比度保留灰化
+ </summary>
+	<param name="inBitmap"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:RTCPDempo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RTCPDempo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:RTCPDempo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

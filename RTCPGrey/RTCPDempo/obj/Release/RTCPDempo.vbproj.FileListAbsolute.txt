@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\RTCPDempo\bin\Release\RTCPDempo.exe.config
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\bin\Release\RTCPDempo.exe.config
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\bin\Release\RTCPDempo.exe
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\bin\Release\RTCPDempo.pdb
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\bin\Release\RTCPDempo.xml
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\obj\Release\RTCPDempo.Resources.resources
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\obj\Release\RTCPDempo.vbproj.GenerateResource.Cache
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\obj\Release\RTCPDempo.exe
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\obj\Release\RTCPDempo.xml
+E:\Projects\Git\RTCPRGB2Gray\RTCPDempo\RTCPDempo\obj\Release\RTCPDempo.pdb
